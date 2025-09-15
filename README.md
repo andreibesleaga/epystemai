@@ -1,2 +1,2 @@
-# epystemai
+# EpystemAI
 AI System Engineering Framework
