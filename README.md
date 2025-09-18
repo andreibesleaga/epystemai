@@ -1,2 +1,2 @@
 # EpystemAI
-AI Systems Engineering Framework
+AI R&D Systems Engineering Framework
